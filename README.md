@@ -47,7 +47,7 @@ flowchart LR
     exemples --> preview["markdownlivepreview.md"]
 
     root --> readme["README.md"]
-    click basics "exemples/Basics.md" "Open Basics"
+    click basics "https://github.com/<ton-repo>/blob/main/exemples/Basics.md" "Open Basics"
     click links "exemples/links-images.md" "Open links-images"
     click preview "exemples/markdownlivepreview.md" "Open preview"
     click readme "README.md" "Open README"

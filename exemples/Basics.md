@@ -125,7 +125,6 @@
 
 <br>
 
-
 ## ***Everthing***
 
 #### Visual
@@ -166,8 +165,8 @@
 > ## *Italics* 
 
 > _Italics_ 
-> # _Italics_     # dont to that in header
-> ## _Italics_    # dont to that in header
+> # _Italics_
+> ## _Italics_
 
 ---
 
@@ -176,8 +175,8 @@
 > ## **Bold**
 
 > __Bold__
-> # __Bold__   # dont to that in header
-> ## __Bold__  # dont to that in header
+> # __Bold__
+> ## __Bold__
 
 ---
 
