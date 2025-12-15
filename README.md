@@ -80,7 +80,7 @@ Each file is written with the following principles:
 1.
 
 
-<h2 id="resources">ℝesources</h2>
+## <h2 id="resources">ℝesources</h2>
 
 ### ℝeferences
 
