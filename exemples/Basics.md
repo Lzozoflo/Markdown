@@ -2,8 +2,6 @@
 <!-- 𝔸 𝔹 ℂ 𝔻 𝔼 𝔽 𝔾 ℍ 𝔾 𝕀 𝕁 𝕂 𝕃 𝕄 ℕ 𝕆 ℙ ℚ ℝ 𝕊 𝕋 𝕌 𝕍 𝕎 𝕏 𝕐 ℤ -->
 <!-- 🗎 🖋 👀 🗣 -->
 
-# 𝕄arkdown Learning Repository
-
 ## 🗓 𝕊ummary
 
 - [ℍeader](#header)
@@ -24,18 +22,20 @@
 
 #### 👀 𝕍isual
 
->    # header1 `<h1>`
->    ## header2 `<h2>`
->    ### header3 `<h3>`
->    #### header4 `<h4>`
->    ##### header5 `<h5>`
->    ###### header6 `<h6>`
+>    # header1 same as `<h1>`
+>    <h1 id="id for summary">header1 <h1> 
+>    ## header2 same as `<h2>`
+>    ### header3 same as `<h3>`
+>    #### header4 same as `<h4>`
+>    ##### header5 same as `<h5>`
+>    ###### header6 same as `<h6>`
 
 
 #### 🗣 𝔼xplain
 
 ```text
 >    # header1 `<h1>` 
+>    <h1 id="id for summary">header1 `<h1>`<h1> 
 >    ## header2 `<h2>` 
 >    ### header3 `<h3>` 
 >    #### header4 `<h4>` 

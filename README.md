@@ -45,15 +45,23 @@
 flowchart LR
     root["/"]
 
+    root --> BluePrint["BluePrint/"]
+        BluePrint -->BluePrintReadMeMain["BluePrintReadMeMain.md"]
+
     root --> exemples["exemples/"]
-    exemples --> basics["Basics.md"]
-    exemples --> links["links-images.md"]
-
+        exemples --> basics["Basics.md"]
+        exemples --> links["Links-Images.md"]
+        
     root --> readme["README.md"]
-    click basics "https://github.com/Lzozoflo/Markdown/blob/main/exemples/Basics.md" "Open Basics"
-    click links "https://github.com/Lzozoflo/Markdown/blob/main/exemples/links-images.md" "Open links-images"
-    click readme "https://github.com/Lzozoflo/Markdown/blob/main/README.md" "Open README"
 
+    click BluePrint "https://github.com/Lzozoflo/Markdown/blob/main/BluePrint" "Open BluePrint"
+    click BluePrintReadMeMain "https://github.com/Lzozoflo/Markdown/blob/main/BluePrint/BluePrintReadMeMain.md" "Open BluePrintReadMeMain"
+
+    click exemples "https://github.com/Lzozoflo/Markdown/blob/main/exemples" "Open exemples"
+    click basics "https://github.com/Lzozoflo/Markdown/blob/main/exemples/Basics.md" "Open Basics"
+    click links "https://github.com/Lzozoflo/Markdown/blob/main/exemples/Links-Images.md" "Open links-images"
+   
+    click readme "https://github.com/Lzozoflo/Markdown/blob/main/README.md" "Open README"
 ```
 
 <h2 id="requirements">🛠 ℝequirements</h2>
