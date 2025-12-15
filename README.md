@@ -11,16 +11,17 @@
 
 ## 🗓 𝕊ummary
 
-- [𝔻escription](#𝕕escription)
-- [Objectives](#objectives)
-- [📁 Repository Structure Tree](#repository-structure-tree)
-- [🛠 Requirements](#requirements)
-- [Usage](#objectives)
-- [Learning Notes](#learning-notes)
-- [Resources](#resources)
-- [🖋 Author](#author)
+- [𝔻escription](#description)
+- [𝕆bjectives](#objectives)
+- [📁 ℝepository Structure Tree](#repository-structure-tree)
+- [🛠 ℝequirements](#requirements)
+- [𝕌sage](#usage)
+- [𝕃earning Notes](#learning-notes)
+- [ℝesources](#resources)
+- [🖋 𝔸uthor](#author)
 
-## 𝔻escription
+
+<h2 id="description">𝔻escription</h2>
 
 > This repository is dedicated to **learning, practicing, and documenting Markdown**.
 
@@ -30,14 +31,14 @@
 
 ![Markdown](https://grafikart.fr/uploads/icons/markdown.svg "oui c'est gros")
 
-## 𝕆bjectives
+<h2 id="objectives">𝕆bjectives</h2>
 
 - Learn Markdown syntax from basics to advanced usage
 - Maintain a clean and reusable Markdown reference
 - Practice writing clear technical documentation
 - Understand how Markdown is rendered across different platforms (GitHub, GitLab, documentation tools)
 
-## 📁 ℝepository Structure Tree
+<h2 id="repository-structure-tree">📁 ℝepository Structure Tree</h2>
 
 ```mermaid
 flowchart LR
@@ -54,19 +55,21 @@ flowchart LR
 
 ```
 
-## 🛠 ℝequirements
+<h2 id="requirements">🛠 ℝequirements</h2>
 
 - Any text editor
 - A Markdown renderer (GitHub, VS Code preview, [markdownlivepreview](https://markdownlivepreview.com/), [jotbird](https://www.jotbird.com/app), or similar)
 - Basic reading comprehension ;)
 
-## 𝕌sage
+
+<h2 id="usage">𝕌sage</h2>
 
 > Open any `.md` file and read it directly on GitHub or through your editor’s Markdown preview.
 >
 > You are encouraged to modify, extend, and experiment with the files.
 
-## 𝕃earning Notes
+
+<h2 id="learning-notes">𝕃earning Notes</h2>
 
 Each file is written with the following principles:
 
@@ -76,13 +79,14 @@ Each file is written with the following principles:
 1. [Exercise][TagMarkdownTutoriale]
 1.
 
-## ℝesources
+
+<h2 id="resources">ℝesources</h2>
 
 ### ℝeferences
 
 - [Markdown Tutoriale][TagMarkdownTutoriale]
 - 
 
-## 🖋 𝔸uthor
+<h2 id="author">🖋 𝔸uthor</h2>
 
 > All implementation decisions and documentation were written and validated by the project author.
