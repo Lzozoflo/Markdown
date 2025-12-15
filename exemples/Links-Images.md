@@ -21,19 +21,22 @@
 
 
 #### 👀 𝕍isual
-   [link]: https://www.markdowntutorial.com/lesson/3/
 
 1. [`[]()`](https://www.markdowntutorial.com/lesson/3/ "oui")
-1. [`[][]`][link]
+
+[taglink]: https://www.markdowntutorial.com/lesson/3/
+<!-- [`[]()`][taglink] -->
+1. [`[][]`][taglink]
 
 ---
 
 #### 🗣 𝔼xplain
 ```text
-   [taglink]: https://www.markdowntutorial.com/lesson/3/
 
-    1.  [message](https://www.markdowntutorial.com/lesson/3/ "oui")
-        [message][tag]
+    1.  [`[]()`](https://www.markdowntutorial.com/lesson/3/ "oui")
+        
+    [taglink]: https://www.markdowntutorial.com/lesson/3/
+        [`[]()`][taglink]
     1.  [message][taglink]
 ```
 
@@ -48,11 +51,15 @@
 
 #### 👀 𝕍isual
 
+<!-- [tag]: www.link.com -->
 [imagescat]: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Cat03.jpg/1200px-Cat03.jpg
 [imagesdog]: https://www.outsideonline.com/wp-content/uploads/2023/03/Funny_Dog_H.jpg
+<!-- [tag]: www.link.com "message on hover"  -->
 [imagesgoat]: https://emploi.ouest-france.fr/sites/default/files/styles/originale/public/metier-pere-noel_0.jpg "oui c'est le papa"
 
-1. ![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Cat03.jpg/1200px-Cat03.jpg)
+<!-- ![message](link) -->
+<!-- ![message](link "message on hover") -->
+1. ![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Cat03.jpg/1200px-Cat03.jpg "on hover")
 1. ![][imagesdog]
 1. ![][imagesgoat]
 
@@ -61,17 +68,19 @@
 #### 🗣 𝔼xplain
 
 ```text
-    ![message]()
+    <!-- [tag]: www.link.com -->
     [imagescat]: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Cat03.jpg/1200px-Cat03.jpg
     [imagesdog]: https://www.outsideonline.com/wp-content/uploads/2023/03/Funny_Dog_H.jpg
-    [tag]: www.link.com
+
+    <!-- [tag]: www.link.com "message on hover"  -->
     [imagesgoat]: https://emploi.ouest-france.fr/sites/default/files/styles/originale/public/metier-pere-noel_0.jpg "oui c'est le papa"
-    [tag]: www.link.com "message on hover" 
 
-
-    1. ![](www.image_link.com)
-    2. ![](path in repo)
-    3. ![](link or path "message on hover")
+    <!-- ![message](link) -->
+    <!-- ![message](link "message on hover") -->
+    1. ![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Cat03.jpg/1200px-Cat03.jpg "on hover")
+    1. ![][imagesdog]
+    1. ![][imagesgoat]
+    ![message][tag]
 
 ```
 
@@ -82,7 +91,31 @@
 <br>
 
 
-<h2 id="summary">𝕀mages</h2>
+<h2 id="exsummary">𝔼xemple 🗓 summary</h2>
+
+
+
+#### 👀 𝕍isual
+
+###### 🗓 𝕊ummary
+
+- [𝕃ink](#link)
+- [𝕀mages](#images)
+- [🗓 𝔼xemple summary](#exsummary)
+
+#### 🗣 𝔼xplain
+
+> When using uncommon characters in a heading, you must explicitly define an id, for example: **`<h2 id="exsummary">𝔼xemple 🗓 summary</h2>`**, in order to create a working anchor link.
+
+```text
+
+###### 🗓 𝕊ummary
+
+- [𝕃ink](#link)
+- [𝕀mages](#images)
+- [🗓 𝔼xemple summary](#exsummary)
+
+```
 
 
 <h2 id="author">🖋 𝔸uthor</h2>
