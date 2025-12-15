@@ -11,7 +11,7 @@
 
 ## 🗓 𝕊ummary
 
-- [𝔻escription](#description)
+- [𝔻escription](#𝕕escription)
 - [Objectives](#objectives)
 - [📁 Repository Structure Tree](#repository-structure-tree)
 - [🛠 Requirements](#requirements)
