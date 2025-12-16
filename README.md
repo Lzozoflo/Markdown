@@ -50,7 +50,7 @@ flowchart LR
 
     root --> exemples["exemples/"]
         exemples --> basics["Basics.md"]
-        exemples --> links["Links-Images.md"]
+        exemples --yes--> links["Links-Images.md"]
         
     root --> readme["README.md"]
 

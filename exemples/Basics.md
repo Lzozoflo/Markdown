@@ -24,8 +24,9 @@
 
 #### 👀 𝕍isual
 
+>    <h1 id="id for summary">h1 html header1 <h1>
+
 >    # header1 same as `<h1>`
->    <h1 id="id for summary">header1 <h1> 
 >    ## header2 same as `<h2>`
 >    ### header3 same as `<h3>`
 >    #### header4 same as `<h4>`
@@ -36,8 +37,9 @@
 #### 🗣 𝔼xplain
 
 ```text
+>    <h1 id="id for summary">h1 html header1 <h1>
+
 >    # header1 `<h1>` 
->    <h1 id="id for summary">header1 `<h1>`<h1> 
 >    ## header2 `<h2>` 
 >    ### header3 `<h3>` 
 >    #### header4 `<h4>` 
@@ -131,7 +133,7 @@
 <br>
 
 
-<h2 id="trikethrough">𝕊trikethrough</h2>
+<h2 id="strikethrough">𝕊trikethrough</h2>
 
 #### 👀 𝕍isual
 
@@ -144,28 +146,6 @@
 > ~~one~~
 >> ~~D~~
 >>> ~~Piece~~
-```
-
-<br>
-
----
-
-<br>
-
-
-<h2 id="highlight">ℍighlight</h2>
-
-#### 👀 𝕍isual
-
-> ==one==
->> ==D==
->>> ==Piece==
-
-#### 🗣 𝔼xplain
-```text
-> ==one==
->> ==D==
->>> ==Piece==
 ```
 
 <br>
@@ -180,7 +160,7 @@
 
 > X^42^
 
-> ==~~*Italics*~~==
+> ~~*Italics*~~
 > # ~~*Italics*~~ 
 > ## ~~*Italics*~~
 

@@ -19,39 +19,18 @@
 
 
 #### 👀 𝕍isual
-```
+
+```text
 let message = 'Hello world';
 alert(message);
 ```
 
 #### 🗣 𝔼xplain
+
 > \```
 > let message = 'Hello world';
 > alert(message);
 > \```
-
-<h2 id="table">𝕋able</h2>
-
-
-#### 👀 𝕍isual
-
-| Left columns  | mid columns   | right columns |   
-| :------------ |:-------------:| -------------:|
-| left foo      | right foo     | right foo     |
-| left bar      | right bar     | right bar     |
-| left baz      | right baz     | right baz     |
-
-#### 🗣 𝔼xplain
-
-```text
-| Left columns  | mid columns   | right columns |   
-| :------------ |:-------------:| -------------:|
-| left foo      | right foo     | right foo     |
-| left bar      | right bar     | right bar     |
-| left baz      | right baz     | right baz     |
-
-```
-
 
 <br>
 
@@ -59,18 +38,44 @@ alert(message);
 
 <br>
 
-<h2 id="inlinecode">nline code</h2>
-## Inline code
+<h2 id="table">𝕋able</h2>
 
 #### 👀 𝕍isual
 
-> This web site is using `markedjs/marked`.
+| Left columns  | Mid columns   | Right columns |   
+| :------------ |:-------------:| -------------:|
+| left foo      | mid foo     | right foo     |
+| left bar      | mid bar     | right bar     |
+| left baz      | mid baz     | right baz     |
+
+#### 🗣 𝔼xplain
+
+```text
+| Left columns  | Mid columns   | Right columns |   
+| :------------ |:-------------:| -------------:|
+| left foo      | right foo     | right foo     |
+| left bar      | right bar     | right bar     |
+| left baz      | right baz     | right baz     |
+
+```
+
+<br>
+
+---
+
+<br>
+
+<h2 id="inlinecode">𝕀nline code</h2>
+
+#### 👀 𝕍isual
+
+This web site is using `markedjs/marked`.
 
 
 #### 🗣 𝔼xplain
 
 ```
-> This readme is using `markedjs/marked`.
+This readme is using `markedjs/marked`.
 ```
 
 <br><br>
