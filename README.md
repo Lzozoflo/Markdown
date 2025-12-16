@@ -42,19 +42,19 @@
 <h2 id="repository-structure-tree">📁 ℝepository Structure Tree</h2>
 
 ```mermaid
-flowchart LR
-    root["/"]
+graph LR
+    root{"/"}
 
     root --> BluePrint["BluePrint/"]
         BluePrint -->BluePrintReadMeMain["BluePrintReadMeMain.md"]
 
     root --> exemples["exemples/"]
         exemples --> basics["Basics.md"]
-        exemples --yes--> links["Links-Images.md"]
-        
+        exemples --> links["Links-Images.md"]
+
     root --> readme["README.md"]
 
-    click BluePrint "https://github.com/Lzozoflo/Markdown/blob/main/BluePrint" "Open BluePrint"
+    click BluePrint "https://github.com/Lzozoflo/Markdown/tree/main/Blueprint" "Open BluePrint"
     click BluePrintReadMeMain "https://github.com/Lzozoflo/Markdown/blob/main/Blueprint/BluePrintReadMeMain.md" "Open BluePrintReadMeMain"
 
     click exemples "https://github.com/Lzozoflo/Markdown/blob/main/exemples" "Open exemples"
@@ -76,6 +76,12 @@ mindmap
       Links-Images.md
       Table.md
 ```
+
+
+
+```mermaid
+```
+
 
 <h2 id="requirements">🛠 ℝequirements</h2>
 
@@ -99,7 +105,7 @@ Each file is written with the following principles:
 1. Minimal but clear examples
 1. Comments explaining *why* something is written this way
 1. [Exercise][TagMarkdownTutoriale]
-1.
+1. [mermaid IDE](https://mermaid.live/)
 
 
 <h2 id="resources">ℝesources</h2>
