@@ -1,69 +1,85 @@
-# Markdown syntax guide
+*This project has been created by Florent Cretin.*
+<!-- 𝔸 𝔹 ℂ 𝔻 𝔼 𝔽 𝔾 ℍ 𝔾 𝕀 𝕁 𝕂 𝕃 𝕄 ℕ 𝕆 ℙ ℚ ℝ 𝕊 𝕋 𝕌 𝕍 𝕎 𝕏 𝕐 ℤ -->
+<!-- 🗎 🖋 👀 🗣 -->
 
-## Headers
+## 🗓 𝕊ummary
 
-# This is a Heading h1
-## This is a Heading h2
-###### This is a Heading h6
+- [ℍeader](#blocksofcode)
+- [𝕀nline code](#inlinecode)
 
-## Emphasis
+- [🖋 𝔸uthor](#author)
 
-*This text will be italic*  
-_This will also be italic_
+<br>
 
-**This text will be bold**  
-__This will also be bold__
+---
 
-_You **can** combine them_
+<br>
 
-## Lists
+<h2 id="blocksofcode">𝔹locks of code</h2>
 
-### Unordered
 
-* Item 1
-* Item 2
-* Item 2a
-* Item 2b
-    * Item 3a
-    * Item 3b
-
-### Ordered
-
-1. Item 1
-2. Item 2
-3. Item 3
-    1. Item 3a
-    2. Item 3b
-
-## Images
-
-![This is an alt text.](/image/sample.webp "This is a sample image.")
-
-## Links
-
-You may be using [Markdown Live Preview](https://markdownlivepreview.com/).
-
-## Blockquotes
-
-> Markdown is a lightweight markup language with plain-text-formatting syntax, created in 2004 by John Gruber with Aaron Swartz.
->
->> Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor.
-
-## Tables
-
-| Left columns  | Right columns |
-| ------------- |:-------------:|
-| left foo      | right foo     |
-| left bar      | right bar     |
-| left baz      | right baz     |
-
-## Blocks of code
-
+#### 👀 𝕍isual
 ```
 let message = 'Hello world';
 alert(message);
 ```
 
+#### 🗣 𝔼xplain
+> \```
+> let message = 'Hello world';
+> alert(message);
+> \```
+
+<h2 id="table">𝕋able</h2>
+
+
+#### 👀 𝕍isual
+
+| Left columns  | mid columns   | right columns |   
+| :------------ |:-------------:| -------------:|
+| left foo      | right foo     | right foo     |
+| left bar      | right bar     | right bar     |
+| left baz      | right baz     | right baz     |
+
+#### 🗣 𝔼xplain
+
+```text
+| Left columns  | mid columns   | right columns |   
+| :------------ |:-------------:| -------------:|
+| left foo      | right foo     | right foo     |
+| left bar      | right bar     | right bar     |
+| left baz      | right baz     | right baz     |
+
+```
+
+
+<br>
+
+---
+
+<br>
+
+<h2 id="inlinecode">nline code</h2>
 ## Inline code
 
-This web site is using `markedjs/marked`.
+#### 👀 𝕍isual
+
+> This web site is using `markedjs/marked`.
+
+
+#### 🗣 𝔼xplain
+
+```
+> This readme is using `markedjs/marked`.
+```
+
+<br><br>
+
+---
+
+<br><br>
+
+
+<h2 id="author">🖋 𝔸uthor</h2>
+
+All implementation decisions and documentation were written and validated by the project author.

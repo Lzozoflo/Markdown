@@ -2,15 +2,17 @@
 <!-- 𝔸 𝔹 ℂ 𝔻 𝔼 𝔽 𝔾 ℍ 𝔾 𝕀 𝕁 𝕂 𝕃 𝕄 ℕ 𝕆 ℙ ℚ ℝ 𝕊 𝕋 𝕌 𝕍 𝕎 𝕏 𝕐 ℤ -->
 <!-- 🗎 🖋 👀 🗣 -->
 
+
 ## 🗓 𝕊ummary
 
 - [ℍeader](#header)
 - [𝕃ine](#line)
 - [𝕀talics](#italics)
 - [𝔹old](#bold)
+- [ℍighlight](#highlight)
+- [𝕊trikethrough](#strikethrough)
 - [𝔼verything](#everything)
 - [🖋 𝔸uthor](#author)
-
 <br>
 
 ---
@@ -128,12 +130,59 @@
 
 <br>
 
+
+<h2 id="trikethrough">𝕊trikethrough</h2>
+
+#### 👀 𝕍isual
+
+> ~~one~~
+>> ~~D~~
+>>> ~~Piece~~
+
+#### 🗣 𝔼xplain
+```text
+> ~~one~~
+>> ~~D~~
+>>> ~~Piece~~
+```
+
+<br>
+
+---
+
+<br>
+
+
+<h2 id="highlight">ℍighlight</h2>
+
+#### 👀 𝕍isual
+
+> ==one==
+>> ==D==
+>>> ==Piece==
+
+#### 🗣 𝔼xplain
+```text
+> ==one==
+>> ==D==
+>>> ==Piece==
+```
+
+<br>
+
+---
+
+<br>
+
 <h2 id="everything">𝔼verthing</h2>
 
 #### 👀 𝕍isual
-> *Italics* 
-> # *Italics* 
-> ## *Italics* 
+
+> X^42^
+
+> ==~~*Italics*~~==
+> # ~~*Italics*~~ 
+> ## ~~*Italics*~~
 
 > _Italics_ 
 > # _Italics_
@@ -163,9 +212,12 @@
 #### 🗣 𝔼xplain
 
 ```text
-> *Italics* 
-> # *Italics* 
-> ## *Italics* 
+
+> X^42^
+
+> ==~~*Italics*~~==
+> # ~~*Italics*~~ 
+> ## ~~*Italics*~~
 
 > _Italics_ 
 > # _Italics_

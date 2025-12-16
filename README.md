@@ -55,13 +55,26 @@ flowchart LR
     root --> readme["README.md"]
 
     click BluePrint "https://github.com/Lzozoflo/Markdown/blob/main/BluePrint" "Open BluePrint"
-    click BluePrintReadMeMain "https://github.com/Lzozoflo/Markdown/blob/main/BluePrint/BluePrintReadMeMain.md" "Open BluePrintReadMeMain"
+    click BluePrintReadMeMain "https://github.com/Lzozoflo/Markdown/blob/main/Blueprint/BluePrintReadMeMain.md" "Open BluePrintReadMeMain"
 
     click exemples "https://github.com/Lzozoflo/Markdown/blob/main/exemples" "Open exemples"
     click basics "https://github.com/Lzozoflo/Markdown/blob/main/exemples/Basics.md" "Open Basics"
     click links "https://github.com/Lzozoflo/Markdown/blob/main/exemples/Links-Images.md" "Open links-images"
    
     click readme "https://github.com/Lzozoflo/Markdown/blob/main/README.md" "Open README"
+```
+
+```mermaid
+mindmap
+  root((Projet Markdown))
+    README.md
+    Blueprint
+      BluePrintReadMeMain.md
+      BluePrintTable.md
+    exemples
+      Basics.md
+      Links-Images.md
+      Table.md
 ```
 
 <h2 id="requirements">🛠 ℝequirements</h2>
