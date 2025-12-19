@@ -51,6 +51,7 @@ graph LR
     root --> exemples["exemples/"]
         exemples --> basics["Basics.md"]
         exemples --> links["Links-Images.md"]
+        exemples --> blockcodetable["BlockCode_Table.md"]
 
     root --> readme["README.md"]
 
@@ -59,7 +60,8 @@ graph LR
 
     click exemples "https://github.com/Lzozoflo/Markdown/blob/main/exemples" "Open exemples"
     click basics "https://github.com/Lzozoflo/Markdown/blob/main/exemples/Basics.md" "Open Basics"
-    click links "https://github.com/Lzozoflo/Markdown/blob/main/exemples/Links-Images.md" "Open links-images"
+    click links "https://github.com/Lzozoflo/Markdown/blob/main/exemples/Links-Images.md" "Open Links-Images"
+    click blockcodetable "https://github.com/Lzozoflo/Markdown/blob/main/exemples/BlockCode_Table.md" "Open BlockCode_Table"
    
     click readme "https://github.com/Lzozoflo/Markdown/blob/main/README.md" "Open README"
 ```
