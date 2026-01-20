@@ -21,7 +21,6 @@
 - [𝕆bjectives](#objectives)
 - [📁 ℝepository Structure Tree](#rst)
 - [🛠 ℝequirements](#requirements)
-- [𝕃earning Notes](#learning-notes)
 - [ℝesources](#resources)
 - [🖋 𝔸uthor](#author)
 
