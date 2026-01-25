@@ -8,8 +8,12 @@
 <!-- 𝔸𝔹ℂ𝔻𝔼𝔽𝔾ℍ𝕀𝕁𝕂𝕃𝕄ℕ𝕆ℙℚℝ𝕊𝕋𝕌𝕍𝕎𝕏𝕐ℤ𝕒𝕓𝕔𝕕𝕖𝕗𝕘𝕙𝕚𝕛𝕜𝕝𝕞𝕟𝕠𝕡𝕢𝕣𝕤𝕥𝕦𝕧𝕨𝕩𝕪𝕫𝟘𝟙𝟚𝟛𝟜𝟝𝟞𝟟𝟠𝟡 -->
 <!-- http://github.com/tandpfun/skill-icons#readme -->
 
-<!-- [Tag-test]: url "on hover" -->
+<!-- [tag_test]: url "on hover" -->
 
+[tag_icon_ts]: https://skillicons.dev/icons?i=ts 
+
+
+# ![icons][tag_icon_ts] Name ![icons][tag_icon_ts]
  
 <details>
 <summary>
