@@ -112,10 +112,6 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam corporis
     </summary>
 
 
-- [Generateur de grid][tag_ressource_grid]
-- [how to use react-icons][tag_ressource_reacticone]
-- [transition by claude][tag_ressource_claude_transition]
-
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam corporis
  quas eligendi, voluptatem provident nisi est blanditiis dolorem nostrum 
  laboriosam commodi temporibus officia ad quis ipsa nesciunt veritatis 
