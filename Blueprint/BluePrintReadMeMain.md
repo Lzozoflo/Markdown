@@ -1,33 +1,24 @@
 *This project has been created by Florent cretin.*
-
-<!-- Ceci sont des commentaire pour avec ma font: Double-struck et des icon personnaliser -->
-
-<!-- 📘 🗎 🖋 👀 🗣 … 🧪-->
-<!-- 𝔸 𝔹 ℂ 𝔻 𝔼 𝔽 𝔾 ℍ 𝔾 𝕀 𝕁 𝕂 𝕃 𝕄 ℕ 𝕆 ℙ ℚ ℝ 𝕊 𝕋 𝕌 𝕍 𝕎 𝕏 𝕐 ℤ -->
-<!-- 𝕒 𝕓 𝕔 𝕕 𝕖 𝕗 𝕘 𝕙 𝕚 𝕛 𝕜 𝕝 𝕞 𝕟 𝕠 𝕡 𝕢 𝕣 𝕤 𝕥 𝕦 𝕧 𝕨 𝕩 𝕪 𝕫  -->
-<!-- 𝟘 𝟙 𝟚 𝟛 𝟜 𝟝 𝟞 𝟟 𝟠 𝟡 -->
-<!-- 𝔸𝔹ℂ𝔻𝔼𝔽𝔾ℍ𝕀𝕁𝕂𝕃𝕄ℕ𝕆ℙℚℝ𝕊𝕋𝕌𝕍𝕎𝕏𝕐ℤ𝕒𝕓𝕔𝕕𝕖𝕗𝕘𝕙𝕚𝕛𝕜𝕝𝕞𝕟𝕠𝕡𝕢𝕣𝕤𝕥𝕦𝕧𝕨𝕩𝕪𝕫𝟘𝟙𝟚𝟛𝟜𝟝𝟞𝟟𝟠𝟡 -->
+<!--  ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++  -->
 
 
-<!-- Ceci sont des commentaire pour avec ma font: Double-struck et des icon personnaliser -->
+<!-- Custom icon: 📘 🗎 🖋 👀 🗣 … 🧪-->
+
+<!-- font: 𝔻𝕠𝕦𝕓𝕝𝕖-𝕤𝕥𝕣𝕦𝕔𝕜 / double-struck -->
+<!--    𝔸 𝔹 ℂ 𝔻 𝔼 𝔽 𝔾 ℍ 𝔾 𝕀 𝕁 𝕂 𝕃 𝕄 ℕ 𝕆 ℙ ℚ ℝ 𝕊 𝕋 𝕌 𝕍 𝕎 𝕏 𝕐 ℤ              -->
+<!--    𝕒 𝕓 𝕔 𝕕 𝕖 𝕗 𝕘 𝕙 𝕚 𝕛 𝕜 𝕝 𝕞 𝕟 𝕠 𝕡 𝕢 𝕣 𝕤 𝕥 𝕦 𝕧 𝕨 𝕩 𝕪 𝕫                     -->
+<!--    𝟘 𝟙 𝟚 𝟛 𝟜 𝟝 𝟞 𝟟 𝟠 𝟡                                                     -->
+<!--  ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++  -->
 
 <!-- http://github.com/tandpfun/skill-icons#readme -->
+
 <!-- [tag_test]: url "on hover" -->
-
-[tag_icon_react]: https://skillicons.dev/icons?i=react
-
 
 # ℙroject
 
-
-
-
 <br>
 
-
-
-
-<details id="summary">
+<details id='summary'>
     <summary>
         <h2>🗓 𝕊ummary</h2>
     </summary>
@@ -44,6 +35,7 @@
 </details>
 
 
+
 <br>
 
 ---
@@ -51,7 +43,7 @@
 <br>
 
 
-<details id="description">
+<details id='description'>
     <summary>
         <h2>𝔻escription</h2>
     </summary>
@@ -77,7 +69,7 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam corporis
 <br>
 
 
-<details id="instructions">
+<details id='instructions'>
     <summary>
         <h2>𝕀nstructions</h2>
     </summary>
@@ -106,11 +98,10 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam corporis
 <br>
 
 
-<details id="resources">
+<details id='resources'>
     <summary>
         <h2>ℝesources</h2>
     </summary>
-
 
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam corporis
  quas eligendi, voluptatem provident nisi est blanditiis dolorem nostrum 
@@ -132,20 +123,27 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam corporis
 
 
 
-<!-- <details id="norme">
+<!-- <details id='norme'>
     <summary>
         <h2>ℕorme</h2>
     </summary>
 
 - [📐 ℕaming ℂonvention](./Naming_Convention.md) 
 
-</details> -->
+</details>
+
+
+<br>
+
+---
+
+<br> -->
 
 
 
-<details id="rst">
+<details id='rst'>
     <summary>
-        <h2 id="rst">📁 ℝepository Structure Tree</h2>
+        <h2 id='rst'>📁 ℝepository Structure Tree</h2>
     </summary>
 
 
@@ -158,28 +156,24 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam corporis
 
 </details>
 
-
 <br>
 
 ---
 
 <br>
 
-<details id="rst">
+
+
+<!--  +++++++  You don't need to look below this line.  +++++++  -->
+
+
+<details id='author'>
     <summary>
-        <h2 id="author">🖋 𝔸uthor</h2>
+        <h2 id='author'>🖋 𝔸uthor</h2>
     </summary>
 
 All implementation decisions and documentation were written and validated by the project author.
 
 - [🗓 𝕊ummary](#summary)
 
-
 </details>
-
-
-<br>
-
----
-
-<br>
